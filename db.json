@@ -1,0 +1,32 @@
+{
+  "karesepet": {
+    "storename": "Kutayin Dukkani",
+    "cartid": 1,
+    "products": [
+      {
+        "id": 1001,
+        "quantity": 3,
+        "name": "Black shoes",
+        "price": 99.95,
+        "image": "https://picsum.photos/id/180/2400/1600",
+        "variant": "XL-Red"
+      },
+      {
+        "id": 1002,
+        "quantity": 2,
+        "name": "Brown shoes",
+        "price": 99.95,
+        "image": "https://picsum.photos/id/111/4400/2656",
+        "variant": "L-Yellow"
+      },
+      {
+        "id": 1003,
+        "quantity": 1,
+        "name": "Dark brown shoes",
+        "price": 99.95,
+        "image": "https://picsum.photos/id/21/3008/2008",
+        "variant": "S-Black"
+      }
+    ]
+  }
+}
